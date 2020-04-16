@@ -1,0 +1,606 @@
+*{margin: 0;padding: 0}
+html,body{
+    min-height: 100% !important;
+}
+body{
+    background: #EFEFEF;
+    font-family: 'Open Sans', sans-serif;
+    overflow-x: hidden !important;
+    font-size: 12px;
+}
+
+.tab-pane-mail{
+    height:340px;
+    overflow-y:scroll;
+}
+
+.tab-pane-notice{
+    height:250px;
+    overflow-y:scroll;
+}
+.required { 
+    font-weight: bold;
+    color: red;
+}
+.clock_in_button{
+    height: 50px;
+    border-radius: 2px;
+    margin-bottom: 22px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.notice-details-margin{
+    margin-bottom: 10px;
+}
+
+.view-all-front{
+    color: #797979; 
+    font-size: 12px;
+    font-weight: lighter;
+}
+.caret-up {
+    width: 0;
+    height: 0;
+    border-left: 4px solid rgba(0, 0, 0, 0);
+    border-right: 4px solid rgba(0, 0, 0, 0);
+    border-bottom: 4px solid;
+
+    display: inline-block;
+    margin-left: 2px;
+    vertical-align: middle;
+}
+
+.well-custom {
+    background: #004884;
+    color: #ffffff;
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+}
+.well-custom-time {
+    background: #004884;
+    color: #ffffff;    
+    padding: 16px;
+    margin-bottom: 20px;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+    height: 72px; 
+    padding-top: 25px; 
+    font-size: 11px;
+}
+.well-user-profile {
+    background: #4782B2;
+    color: #ffffff;
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+}
+
+#main-header{
+    border-top:4px solid #FECD0B;
+    border-bottom: 4px solid #D5D5D5;
+    background: transparent;
+    position: relative;
+    height: 241px;
+
+}
+.school-logo{
+    z-index: 3;
+    margin: 56px 0px 0px 0px;
+}
+.school-logo img{
+    margin-right: 20px;
+    margin-left: 5px;
+    float: left;
+    margin-bottom: 2.4%;
+    width: 90px;
+    height: 90px;
+}
+.head h2{
+    color: #ffffff;
+    float: left;
+    margin-top: 2.5%;
+
+}
+.main{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#header_menu{
+    z-index: 3;
+}
+
+.navbar-custom {
+    color:#fff;
+    border-radius: 0px;
+    border-top: 1px solid #00569d;
+}
+.menu-bg{
+    background-color:#004884;
+}
+.navbar-custom a{
+    color: #ffffff;
+
+}
+.navbar-header>.navbar-toggle{
+    position: relative;
+    float: right;
+    padding: 9px 0px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    background-image: none;
+}
+.navbar-header>.navbar-toggle>.icon-bar{
+    background-color:#ffffff;
+    display: block;
+    width: 22px;
+    height:2px;
+    border-radius: 1px;
+}
+.main-menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.main-menu ul:after{
+    content: '';
+    display:block;
+    font-size: 0;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+.main-menu ul li:not(:last-child){
+    /*border-right: 1px solid;*/
+    /*border-color: #00569d;*/
+}
+.main-menu ul li a{
+    color: #8ab5d6;
+    padding: 17px 20px;
+    text-decoration: none;
+    display: block;
+    font-family: 'Open Sans', sans-serif;
+}
+.main-menu ul li.active a{
+    color: #FECD0B;
+}
+.main-menu ul li a:hover {
+    color: #FECD0B;
+    background: #004884;
+}
+.main-menu ul li a:hover:before {
+    width: 100%;
+}
+.main-menu ul li.last > a:after,
+.main-menu ul li:last-child > a:after {
+    display: none;
+}
+.main-menu  .open > a, .main-menu  .open > a:hover, .main-menu .open > a:focus {
+    background-color: #2A6496;
+    border-color: #428BCA; 
+    
+}
+.main-menu li ul.dropdown-menu{
+    background: rgba(0, 72, 132, 1);
+}
+.main-menu li ul.dropdown-menu > li{
+    border-bottom: 1px solid #D5D5D5;
+}
+.main-menu li ul.dropdown-menu > li a{
+    color: #8ab5d6;
+    padding: 13px 9px;
+    text-decoration: none;
+    display: block;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+}
+.main-menu li ul.dropdown-menu > li:last-child{
+    border-bottom: 0px solid;
+}
+.main-menu li ul.dropdown-menu > li.active a{
+    color: #FECD0B;
+    background-color: transparent;    
+}
+.main-menu li ul.dropdown-menu > li > a:hover,.main-menu li ul.dropdown-menu > li > a:focus{
+    background-color: #004884;
+    color: #FECD0B;
+}
+#header .stripe_image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+    background-color: #001a32;
+    background: url("../img/header-kids.jpg") repeat;
+    background-size: cover;
+    background-position: 0% 25%
+}
+#header .stripe_color {
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: #001a32;
+    opacity: 0.8;
+    z-index: 2;
+}
+.main_content{
+    background: #ffffff;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.notice{
+    background: #ffffff;
+
+}
+.notice_title{
+    border-bottom: 1px solid #004884;    
+    padding: 10px;
+
+
+}
+.notice-calendar {
+    float: left;
+    display: block;
+    margin-right: 15px;
+    width: 65px;
+    height: 65px;
+    background-color: #f3f3f3;
+}
+.notice-body{
+    padding: 7px 20px;
+}
+.notice-calendar .date {
+    font-size: 16px;
+    font-weight: 700;
+    width: 65px;
+    height: 43px;
+    line-height: 43px;
+    text-align: center;
+    display: block;
+}
+.notice-calendar .month {
+    color: white;
+    background-color: #4782b2;
+    display: block;
+    width: 65px;
+    height: 22px;
+    line-height: 22px;
+    font-weight: 600;
+    text-align: center;
+}
+.notice-calendar-list{
+    padding-bottom: 15px;
+    display: block;
+    padding-top: 15px;
+}
+.notice-calendar-list:not(:last-child){
+    padding-bottom: 15px;
+    border-bottom: 1px dashed #d5dbe0;
+}
+notice-calendar-heading{
+
+}
+.notice-calendar-heading-title{
+    margin-top: 2px;
+}
+.notice-calendar-heading-title a:hover{
+    text-decoration: none;
+}
+.notice-calendar-date{
+    font-size: 10px;
+    color:#999999;
+}
+.footer{
+    background:#004884;
+    border-top: 4px solid #D5D5D5;
+    color: #8ab5d6;
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
+.footer h4{
+    padding-bottom: 15px;
+    color: #ffffff;
+    border-bottom: 1px solid #003a6a;
+}
+.margin{
+    margin-top: 20px;
+}
+.padding{
+    padding-top: 20px;
+}
+.routine-pdf{
+    color: #FFF;font-size: 14px;font-weight: bold;margin: 0px 5px;
+}
+.routine-pdf:hover{
+    color: #FFF;font-size: 14px;font-weight: bold;margin: 0px 5px;
+}
+/* Responsive CSS */
+@media screen and (min-width:1800px) and (max-width: 1920px) {
+
+    .footer{
+        margin-top: 500px;
+    }
+}
+@media screen and (max-width: 1920px) {
+    .main-menu ul li a{
+        padding: 17px 10px;
+    }
+    .header-right-social ul {
+        margin-bottom: 10px;
+    }
+    .head h2{
+        font-size: 2.8em;
+        text-align: center;
+        margin: 30px auto;
+
+    }
+    .school-logo img{
+        margin-bottom: 32px;
+    }
+}
+@media screen and (max-width: 992px) {
+    .school-logo img{
+        margin-bottom: 32px;
+    }
+    .footer{
+        margin-top: 20px;
+    }
+}
+@media screen and (max-width: 767px) {
+    .main{
+        margin-right: -15px;
+        margin-left: -15px;
+    }
+    .navbar-custom{
+        margin: 5px 0px 0px 0px;
+        min-height: 40px;
+    }
+    #header_menu{
+        margin-top: 53px;
+        margin-left: -1px;
+        margin-right: -1px;
+    }
+    .main-menu ul li:not(:last-child){
+        width: 100%;
+        border-right: none;
+        border-bottom: 1px solid #00569d;
+    }
+    .school-logo img{
+        margin-right: 0%;
+        margin-left: 0%;
+    }
+    .header-right-social ul {
+        margin-bottom: 17px;
+    }
+    .head h2{
+        font-size: 1.4em;
+        text-align: center;
+        margin: 25px auto;
+
+    }
+    .footer{
+        margin-top: 20px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .margin{
+        margin-top: 46px;
+    }
+}
+@media screen and (max-width: 382px) {
+
+    #header_menu{
+        margin-top: 33px;
+    }
+    .school-logo img{
+        display: none;
+    }
+    .margin{
+        margin-top: 46px;
+    }
+}
+
+ul.dashboard-menu{
+    margin: 0px 0px 0px 20px;padding: 0;
+}
+
+.lecture > ul,.lecture > ol{
+    margin-left: 16px;
+}
+.reply_from{
+    border: none;
+    background: none;
+}
+.reply_para{
+    margin-left: 30px;
+}
+.mailbox-attachment-info a {
+    padding: 10px;
+    font-size: 20px;
+    background: none repeat scroll 0% 0% #F4F4F4;
+}
+.mailbox-attachment-name {
+    font-weight: bold;    
+    color: #666;        
+}
+.mail_checkbox{
+    padding: 3px 10px;    
+    border-radius: 3px;    
+    color: #333;
+    background-color: #FFF;    
+    display: inline-block;        
+    font-weight: normal;    
+
+    white-space: nowrap;
+    vertical-align: middle;    
+    -moz-user-select: none;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.mail_checkbox input{
+    margin-top:4px;
+
+}
+
+/* File Input General Setting Image*/
+.btn-file {
+    overflow: hidden;
+    position: relative;
+    vertical-align: middle;
+}
+.btn-file > input {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    transform: translate(-300px, 0) scale(4);
+    font-size: 23px;
+    direction: ltr;
+    cursor: pointer;
+}
+.fileinput {
+    margin-bottom: 9px;
+    display: inline-block;
+}
+.fileinput .uneditable-input {
+    display: inline-block;
+    margin-bottom: 0px;
+    vertical-align: middle;
+    cursor: text;
+}
+.fileinput i + .fileinput-filename,
+.fileinput .btn + .fileinput-filename {
+    padding-left: 5px;
+}
+.fileinput.fileinput-exists .close {
+    opacity: 1;
+    color: #dee0e4;
+    position: relative;
+    top: 3px;
+    margin-left: 5px;
+}
+.fileinput .thumbnail {
+    overflow: hidden;
+    display: inline-block;
+    margin-bottom: 5px;
+    vertical-align: middle;
+    text-align: center;
+}
+.fileinput .thumbnail[data-trigger="fileinput"] {
+    cursor: pointer;
+}
+
+.fileinput .thumbnail:after {
+    clear: both;
+}
+.fileinput .thumbnail > img {
+    max-height: 100%;
+    display: block;
+}
+.fileinput .btn {
+    vertical-align: middle;
+}
+.fileinput-exists .fileinput-new,
+.fileinput-new .fileinput-exists {
+    display: none;
+}
+.fileinput-inline .fileinput-controls {
+    display: inline;
+}
+.fileinput .uneditable-input {
+    white-space: normal;
+}
+.fileinput-new .input-group .btn-file {
+    border-radius: 0 3px 3px 0;
+}
+.fileinput-new .input-group .btn-file.btn-xs,
+.fileinput-new .input-group .btn-file.btn-sm {
+    border-radius: 0 2px 2px 0;
+}
+.fileinput-new .input-group .btn-file.btn-lg {
+    border-radius: 0 3px 3px 0;
+}
+.form-group.has-warning .fileinput .uneditable-input {
+    color: #574802;
+    border-color: #ffd78a;
+}
+.form-group.has-warning .fileinput .fileinput-preview {
+    color: #574802;
+}
+.form-group.has-warning .fileinput .thumbnail {
+    border-color: #ffd78a;
+}
+.form-group.has-error .fileinput .uneditable-input {
+    color: #ac1818;
+    border-color: #ffafbd;
+}
+.form-group.has-error .fileinput .fileinput-preview {
+    color: #ac1818;
+}
+.form-group.has-error .fileinput .thumbnail {
+    border-color: #ffafbd;
+}
+.form-group.has-success .fileinput .uneditable-input {
+    color: #045702;
+    border-color: #b4e8a8;
+}
+.form-group.has-success .fileinput .fileinput-preview {
+    color: #045702;
+}
+.form-group.has-success .fileinput .thumbnail {
+    border-color: #b4e8a8;
+}
+#id_error_msg{
+    display: none;
+}
+
+/* Custom tab Start */
+.custom-tabs > ul.nav-tabs > li > a {
+    margin-top:10px;
+    margin-left:10px;
+    
+    font-size: 14px;
+}
+.custom-tabs >.nav-tabs > li.active > a,
+.custom-tabs >.nav-tabs > li.active > a:hover,
+.custom-tabs >.nav-tabs > li.active > a:focus {
+    margin-top:10px;
+    margin-left:10px;
+    cursor: default;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+}
+#custom-tab-content{
+    border: 1px solid #E4E7EA;
+    border-top: 0px;
+    background: #F4F4F4;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+#time_validation .help-block{
+    color: #A94442;
+}
+/* Custom tab end */

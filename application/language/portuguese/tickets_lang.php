@@ -1,0 +1,63 @@
+<?php
+$lang['tickets'] = 'Tickets';
+$lang['edit_ticket'] = 'Ticket editor';
+$lang['delete_ticket'] = 'Apagar Ticket';
+$lang['create_ticket'] = 'Criar Ticket';
+$lang['activity_create_tickets'] = 'Create Ticket';
+$lang['all_tickets'] = 'Tickets';
+$lang['new_ticket'] = 'Detalhes do tickets';
+$lang['ticket_details'] = 'Departamento';
+$lang['department'] = 'Departamento';
+$lang['new_department'] = 'Novo departamento';
+$lang['select_department'] = 'Selecionar Departamento';
+$lang['ticket_code'] = 'Código do ticket';
+$lang['ticket_message'] = 'Ticket mensagem';
+$lang['resourcement'] = 'Recursos';
+$lang['ticket_created'] = 'Informações sobre ticket criada com sucesso!';
+$lang['ticket_replied'] = 'Ticket respondeu com sucesso!';
+$lang['ticket_status'] = 'Informações sobre ticket alterada com sucesso!';
+$lang['reply_ticket'] = 'Responder Ticket';
+$lang['ticket_deleted_successfully'] = 'Ticket excluído com sucesso!';
+$lang['activity_ticket_status_changed'] = 'Status do ticket alterado';
+$lang['ticket_status_changed'] = 'Status do ticket alterado!';
+$lang['seconds'] = 'Segundos';
+$lang['task_deleted'] = 'Tarefa excluído com sucesso!';
+$lang['ticket_edited_successfully'] = 'Ticket editado com sucesso';
+$lang['email_template'] = 'Modelo de email';
+$lang['ticket_staff_email'] = 'Equipe E-mail';
+$lang['ticket_client_email'] = 'Cliente de email';
+$lang['ticket_reply_email'] = 'Responder e-mail';
+$lang['ticket_closed_email'] = 'Email fechado';
+$lang['departments'] = 'Departamentos';
+$lang['department_name'] = 'Nome Departamento';
+$lang['department_added'] = 'Com sucesso!';
+$lang['income_category_added'] = 'Categoria de renda adicionado com sucesso!';
+$lang['payment_method_added'] = 'Forma de pagamento adicionado com sucesso!';
+$lang['payment_method_deleted'] = 'Forma de pagamento excluído com sucesso!';
+$lang['tickets_reply_saved'] = 'Resposta de tickets salva com sucesso';
+$lang['ticket_reply_deleted'] = 'Resposta de tickets excluída com sucesso';
+$lang['ticket_deleted'] = 'Tíquetes excluídos com sucesso';
+$lang['activity_tickets_deleted'] = 'Bilhetes excluídos';
+$lang['bill_no'] = 'Conta No.';
+$lang['languages'] = 'Idiomas';
+$lang['add_file'] = 'Ad arquivos';
+$lang['user_edit_login'] = 'Dados de Acesso';
+$lang['minor'] = 'Menor';
+$lang['major'] = 'Maior';
+$lang['show_stopper'] = 'Mostrar rolha';
+$lang['must_be_fixed'] = 'Deve ser fixado';
+$lang['reproducibility'] = 'Reprodutibilidade';
+$lang['your_balance_due'] = 'O saldo da sua fatura em vencimento é:';
+$lang['overdue'] = 'Atrasado';
+$lang['recently_paid_invoices'] = 'Faturas recentemente pagas';
+$lang['recent_tickets'] = 'Bilhetes recentes';
+$lang['this_month'] = 'Este Ticktes Mês';
+$lang['last_30_days'] = 'Últimos 30 dias';
+$lang['failed_to_connect_import_tickets'] = 'Falha ao conectar-se aos tickets de importação automática IMAP dos departamentos.';
+$lang['exceed_limit_10_minutes'] = 'Limite excedido de 10 bilhetes em 15 minutos';
+$lang['block_potential_email'] = 'Loop de email potencial bloqueado';
+$lang['department_not_found'] = 'Departamento não encontrado';
+
+
+/* End of file tickets_lang.php */
+/* Location: ./application/language/portuguese/tickets_lang.php */

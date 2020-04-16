@@ -1,0 +1,379 @@
+/* 
+    Created on : Dec 18 2014, 11:45:15 AM
+    Author     : uthpal
+*/
+html,body {
+    height:100%;
+    min-height: 100%;
+    background: transparent;
+    /*margin: 0% 0% 0% 0%;*/
+    /*border: 1px solid red;*/
+}
+.error_login{
+    color:#fff;
+    margin-bottom: 5px;        
+    width: 30%;
+}
+.login-logo{
+    margin-top: 150px;
+
+}
+.login-logo img{
+    width: 100px;
+    height: 100px;    
+    border: 1px solid #aaa;
+    border-radius: 5px;
+
+}
+/*-----------Main Body---------------*/
+#section-main {
+    margin: 0% 0% 0% 0%;    
+    background:center no-repeat url('../img/login_body-3.jpg');
+    background-size: cover;
+    color:#ddd;
+    min-height:calc(100% - 1px);
+}
+.date_time{
+    margin-left: 60px;
+    float: left;
+}
+.screen_lock{        
+    float: left;
+    margin-top: 2%;        
+    margin-right: auto;
+    margin-bottom: auto;
+    width: 35%;
+    height: 200px;
+    background-size: cover;
+    background:none repeat scroll 0% 0% rgba(203, 203, 203, 0.14);
+}
+.user_profile{
+    padding-top: 17px;
+    padding-left: 5px;
+}
+.photo{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.user_info{
+    margin-left: 10px;
+}
+.user_info h4{
+    margin-top: 20px;
+    color: #fff;
+}
+.user_info p{
+    color: #fff;
+}
+#time{
+    width: 100%;
+    color: #FFF;
+    font-size: 80px;   
+    margin-top: 40px;
+}
+#date{
+    width: 100%;
+    color: #FFF;
+    font-size: 30px;    
+ 
+}
+
+input {
+    display: block;
+    width: 100%;
+    height: 40px;
+    padding: 6px 12px;
+    font-size: 12px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    opacity: 0.6;
+    border: 1px solid #ccc;
+    border-radius: 0px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+.btn-login {
+    color: white;
+    font-weight: bold;
+    background: #89C658;
+    height: 45px;
+    border-radius: 0px;
+}
+
+.btn-login:hover{
+    color: white;
+    background-color: #DBB721;
+}
+
+
+/*<!----------Media Query Start Here---------------->*/
+
+@media screen and (max-width: 1280px){
+    #section-header>.row>.container>.pull-left>img{
+        margin: 14% 0% 0% 0%;
+    }
+    #section-header>.row>.container>p{
+        font-size: 2.2em;
+        color: #38265D;
+        margin: 4% 0% 0% 0%;
+        text-align: left;
+    }
+    .screen_lock{
+        margin-top: 10%;
+        margin-left: 32%;
+        margin-right: auto;
+        margin-bottom: auto;
+        width: 30%;
+    }
+    footer {
+        min-height:calc(18% - 1px);
+    }
+    .login-logo img{
+        margin-left: 25%;
+        margin-top: 54px;
+        margin-bottom: -68px;
+    }
+}
+
+/*<!----------Media Query for 17" Screen landscreen---------------->*/
+@media screen and (max-width: 1024px){
+    /*    #section-main {
+            min-height:calc(78% - 1px);
+        }*/
+    #section-header>.row>.container>.pull-left>img{
+        margin: 14% 0% 0% 0%;
+    }
+    #section-header>.row>.container>p{
+        font-size: 2em;
+        color: #38265D;
+        margin: 5% 0% 0% 0%;
+        text-align: left;
+    }
+    .screen_lock{
+        margin-top: 10%;
+        margin-left: 35%;
+        margin-right: auto;
+        margin-bottom: auto;
+        width: 31%;
+    }
+    footer {
+        background-color:#DBB721;
+        min-height:calc(12% - 1px);
+        font-size: 1.6em;
+    }
+    footer>.container{
+        margin: 3.0% -1% 0% 2%;
+    }
+
+    .login-logo img{
+        margin-left: 31%; 
+    }
+}
+
+@media screen and (max-width: 992px){
+    .screen_lock{        
+        margin-top: 10%;
+        margin-left: 28%;
+        margin-right: auto;
+        margin-bottom: auto;
+        width: 40%;
+    }
+}
+
+/*------------Query for >=950px Portrait Screen -------------*/
+@media screen and (max-width: 980px){
+    .screen_lock{        
+        margin-top: 10%;
+        margin-left: 28%;
+        margin-right: auto;
+        margin-bottom: auto;
+        width: 40%;
+    }
+}
+
+/*---------------Query for Small Tablet Landscape & WideScreen Portrait-------------*/
+@media screen and (max-width: 800px){
+    #section-header{
+        min-height:calc(12% - 1px);
+    }
+
+    #section-header>.row>.container>.pull-left>img{
+        margin: 8% 0% 0% 0%;
+    }
+    #section-header>.row>.container>p{
+        font-size: 2em;
+        color: #38265D;
+        margin: 4% 0% 0% 0%;
+        text-align: left;
+    }
+    .login-logo img{
+        margin-left: 42%; 
+    }
+    .screen_lock{
+        margin-top: 10%;
+        margin-left: 25%;
+        margin-right: auto;
+        margin-bottom: auto;
+        width: 50%;
+    }
+}
+
+/*<!-----Media Query Start Here------------>*/
+@media screen and (max-width: 768px){
+    #section-main {
+        min-height:calc(78% - 1px);
+    }
+    #section-header>.row>.container>.pull-left>img{
+        margin: 20% 0% 0% 0%;
+    }
+    #section-header>.row>.container>p{
+        font-size: 2em;
+        color: #38265D;
+        margin: 6% 0% 0% 0%;
+        text-align: left;
+    }
+    .screen_lock{
+        margin-top: 10%;
+        margin-left: 25%;
+        margin-right: auto;
+        margin-bottom: auto;
+        width: 50%;
+    }
+    footer {
+        background-color:#DBB721;
+        min-height:calc(12% - 1px);
+        font-size: 1.6em;
+    }
+    footer>.container{
+        margin: 5.8% -1% 0% 0%;
+    }
+}
+
+/*---------------Query for Small Tablet Portrait-------------*/
+@media screen and (max-width: 600px){
+    #section-main {
+        min-height:calc(78% - 1px);
+    }
+    #section-header>.row>.container>p{
+        font-size: 2em;
+        color: #38265D;
+        margin: 5% 0% 0% 0%;
+        text-align: center;
+    }    
+    .screen_lock{
+        margin-top: 10%;
+        margin-left: 20%;
+        margin-right: auto;
+        margin-bottom: auto;
+        width: 60%;
+    }
+    footer {
+        background-color:#DBB721;
+        min-height:calc(12% - 1px);
+        font-size: 1.5em;
+    }
+    footer>.container{
+        margin: 4.8% -1% 0% 0%;
+    }
+    .login-logo img{
+        margin-left: 40%; 
+        margin-bottom: auto;
+    }
+
+}
+
+/*---------------Query for iPhone5 Landscape-------------*/
+@media screen and (max-width: 568px){
+    #section-header>.row>.container>p{
+        font-size: 1.55em;
+        color: #38265D;
+        margin: 2% 0% 0% 6%;
+        text-align: center;
+    }
+    .screen_lock{
+        margin-top: 6%;
+        margin-left: 20%;
+        margin-right: auto;
+        margin-bottom: 6%;
+        width: 60%;
+    }
+    footer {
+        background-color:#DBB721;
+        color:#38265D;
+        min-height:calc(12% - 1px);
+        margin-bottom: 0%;
+        font-size: 1.24em;
+    }
+    footer>.container{
+        margin: 1.8% -1% 0% 0%;
+    }
+}
+
+/*---------------Query for iPhone Landscape-------------*/
+@media screen and (max-width: 480px){
+    #section-header>.row>.container>p{
+        font-size: 1.45em;
+        color: #38265D;
+        margin: 2% 0% 0% 0%;
+        text-align: center;
+    }
+    .screen_lock{
+        margin-top: 6%;
+        margin-left: 15%;
+        margin-right: auto;
+        margin-bottom: 5%;
+        width: 70%;
+    }
+    footer {
+        background-color:#DBB721;
+        color:#38265D;
+        min-height:calc(12% - 1px);
+        margin-bottom: 0%;
+        font-size: 1.24em;
+    }
+    footer>.container{
+        margin: 1.8% -1% 0% 0%;
+    }
+}
+
+/*---------------Query for iPhone & iPhone5 Portrait-------------*/
+@media screen and (max-width: 320px){
+    #section-main {
+        margin: 0% 0% 0% 0%;        
+        color:#ddd;
+        min-height:calc(78% - 1px);
+    }
+    #section-header>.row>.container>p{
+        font-size: 1.35em;
+        color: #38265D;
+        margin: 5% 0% 0% 0%;
+        text-align: center;
+    }
+    .screen_lock{    
+        margin-top: 10%;
+        margin-left: 5%;
+        margin-right: auto;
+        margin-bottom: auto;
+        width: 90%;
+    }
+    .login-logo img{
+        margin-left: 31%; 
+    }
+    footer {
+        background-color:#DBB721;
+        color:#38265D;
+        min-height:calc(12% - 1px);
+        margin-bottom: 0%;
+        font-size: 1.24em;
+    }
+    footer>.container{
+        margin: 4.2% -2% 0% 0%;
+    }
+}

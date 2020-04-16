@@ -1,0 +1,65 @@
+<?php
+$lang['complete_tasks'] = ' compleet Taken';
+$lang['my_tasks'] = '  compleet Taken';
+$lang['save_tasks'] = ' Save Taken';
+$lang['tasks'] = ' taken';
+$lang['priority'] = ' Prioriteit';
+$lang['task_add_success'] = ' Taak succesvol toegevoegd!';
+$lang['task_update_success'] = ' Taak succesvol gewijzigd!';
+$lang['task_status'] = ' taak Status  ';
+$lang['task_name'] = ' Opdracht naam';
+$lang['task_hours'] = ' taken uur';
+$lang['task_assigned'] = ' taak';
+$lang['task_assigned_subject'] = ' Nieuwe taak!';
+$lang['task_file_uploaded'] = ' Nieuwe taak bestand geüpload!';
+$lang['view_task'] = ' Bekijk Task';
+$lang['task_updated'] = ' Taak succesvol bijgewerkt!';
+$lang['add_task'] = ' nieuwe Taken';
+$lang['task'] = ' Taak';
+$lang['assign_task'] = ' Nieuwe taak';
+$lang['changes/view'] = ' Verander perspectief';
+$lang['assined_to'] = ' Toegewezen aan';
+$lang['estimated_hour'] = ' geschatte Hour';
+$lang['input_value'] = ' Input gehele waardeketen';
+$lang['task_description'] = ' Taakomschrijving';
+$lang['all_task'] = ' alle Task';
+$lang['save_task'] = ' Taak Informatie toegevoegd!  ';
+$lang['activity_new_task'] = ' Taak Informatie toegevoegd!';
+$lang['activity_update_task'] = ' Task Information Update!';
+$lang['activity_new_task_comment'] = ' Taak nieuwe reactie!';
+$lang['activity_new_leads_comment'] = ' Leads nieuwe reactie!';
+$lang['activity_new_task_attachment'] = ' Taak Nieuw Attachment!';
+$lang['activity_new_leads_attachment'] = ' Leads Nieuw Attachment!';
+$lang['update_task'] = ' Task informatie succesvol gewijzigd!';
+$lang['task_comment_save'] = ' Task Reactie succesvol bijgewerkt!';
+$lang['leads_comment_save'] = ' Leads Reactie succesvol gewijzigd!';
+$lang['task_file_updated'] = ' Task bestandsinformatie bijgewerkt';
+$lang['leads_file_updated'] = ' Leads bestandsinformatie bijgewerkt';
+$lang['task_file_added'] = ' Task bestandsinformatie succesvol toegevoegd';
+$lang['leads_file_added'] = ' Leads bestandsinformatie succesvol toegevoegd';
+$lang['task_details'] = '  taak Details';
+$lang['operation_failed'] = ' Operatie mislukt !';
+$lang['task_initials'] = ' Task Paraaf';
+$lang['add_more'] = ' Voeg meer toe';
+$lang['attach_file_list'] = ' Attachment List';
+$lang['task_attachfile_deleted'] = ' Attachment Bestand succesvol verwijderd';
+$lang['leads_attachfile_deleted'] = ' Leads Attachment Bestand succesvol verwijderd';
+$lang['activity_task_attachfile_deleted'] = ' Attachment bestand verwijderd';
+$lang['activity_task_deleted'] = ' Task Information Deleted  ';
+$lang['tasks_email'] = 'taken Email ';
+$lang['tasks_comments'] = ' taken Comments';
+$lang['tasks_attachment'] = ' taken Attachment';
+$lang['tasks_updated'] = ' taken Bijgewerkt';
+$lang['not_started'] = ' Niet begonnen  ';
+$lang['in_progress'] = ' Bezig';
+$lang['completed'] = ' Voltooid';
+$lang['deferred'] = ' uitgestelde';
+$lang['waiting_for_someone'] = '   Op iemand wachten';
+$lang['participants'] = ' Deelnemers';
+$lang['select_users'] = ' Gebruikers selecteren';
+$lang['related_to'] = ' verwant aan  ';
+$lang['to_do'] = ' Te doen';
+
+
+/* End of file tasks_lang.php */
+/* Location: ./application/language/dutch/tasks_lang.php */

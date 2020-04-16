@@ -1,0 +1,65 @@
+<?php
+$lang['complete_tasks'] = 'المهام كاملة';
+$lang['my_tasks'] = 'المهام الخاصة بي';
+$lang['save_tasks'] = 'حفظ المهام';
+$lang['tasks'] = 'المهام';
+$lang['priority'] = 'أفضلية';
+$lang['task_add_success'] = 'وأضاف الأولوية المهمة بنجاح!';
+$lang['task_update_success'] = 'تحديث المهمة بنجاح!';
+$lang['task_status'] = 'الحالة مهمة';
+$lang['task_name'] = 'اسم المهمة';
+$lang['task_hours'] = 'المهام ساعات';
+$lang['task_assigned'] = 'المهمة المسندة';
+$lang['task_assigned_subject'] = 'المهمة الجديدة المسندة!';
+$lang['task_file_uploaded'] = 'ملف مهمة جديدة تحميل!';
+$lang['view_task'] = 'عرض العمل';
+$lang['task_updated'] = 'مهمة التحديث بنجاح!';
+$lang['add_task'] = 'مهام جديدة';
+$lang['task'] = 'مهمة';
+$lang['assign_task'] = 'مهمة';
+$lang['changes/view'] = 'غير المنظر';
+$lang['assined_to'] = 'مخصص ل';
+$lang['estimated_hour'] = 'ساعة يقدر';
+$lang['input_value'] = 'إدخال كامل القيمة';
+$lang['task_description'] = 'وصف المهمة';
+$lang['all_task'] = 'جميع المهام';
+$lang['save_task'] = 'معلومات مهمة أضيفت بنجاح!';
+$lang['activity_new_task'] = 'معلومات مهمة واضاف!';
+$lang['activity_update_task'] = 'مهمة تحديث معلومات!';
+$lang['activity_new_task_comment'] = 'تعليق مهمة جديدة!';
+$lang['activity_new_leads_comment'] = 'يؤدي تعليق جديد!';
+$lang['activity_new_task_attachment'] = 'مرفق مهمة جديدة!';
+$lang['activity_new_leads_attachment'] = 'يؤدي مرفق جديد!';
+$lang['update_task'] = 'معلومات مهمة التحديث بنجاح!';
+$lang['task_comment_save'] = 'مهمة تعليق التحديث بنجاح!';
+$lang['leads_comment_save'] = 'يؤدي تعليق تحديث بنجاح!';
+$lang['task_file_updated'] = 'معلومات الملف المهمة بنجاح تحديث';
+$lang['leads_file_updated'] = 'يؤدي المعلومات الملف المحدث بنجاح';
+$lang['task_file_added'] = 'معلومات الملف مهمة أضيف بنجاح';
+$lang['leads_file_added'] = 'يؤدي معلومات الملف أضيفت بنجاح';
+$lang['task_details'] = 'تفاصيل مهمة';
+$lang['operation_failed'] = 'فشلت العملية !';
+$lang['task_initials'] = 'الأحرف الأولى مهمة';
+$lang['add_more'] = 'أضف المزيد';
+$lang['attach_file_list'] = 'قائمة المرفقات';
+$lang['task_attachfile_deleted'] = 'الملف المرفق المحذوفة بنجاح';
+$lang['leads_attachfile_deleted'] = 'يؤدي ملف مرفق المحذوفة بنجاح';
+$lang['activity_task_attachfile_deleted'] = 'الملف المرفق المحذوفة';
+$lang['activity_task_deleted'] = 'معلومات مهمة محذوفة';
+$lang['tasks_email'] = 'المهام البريد الإلكتروني';
+$lang['tasks_comments'] = 'المهام تعليقات';
+$lang['tasks_attachment'] = 'المهام مرفق';
+$lang['tasks_updated'] = 'مهام التحديث';
+$lang['not_started'] = 'لم يبدأ';
+$lang['in_progress'] = 'في تَقَدم';
+$lang['completed'] = 'منجز';
+$lang['deferred'] = 'المؤجلة';
+$lang['waiting_for_someone'] = 'انتظر شخصا ما';
+$lang['participants'] = 'مشتركين';
+$lang['select_users'] = 'حدد المستخدمين';
+$lang['related_to'] = 'متعلق ب';
+$lang['to_do'] = 'لكى يفعل';
+
+
+/* End of file tasks_lang.php */
+/* Location: ./application/language/arabic/tasks_lang.php */

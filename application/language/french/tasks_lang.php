@@ -1,0 +1,65 @@
+<?php
+$lang['complete_tasks'] = ' Tâches complètes';
+$lang['my_tasks'] = ' Mes tâches';
+$lang['save_tasks'] = ' Enregistrer Tâches';
+$lang['tasks'] = ' les tâches';
+$lang['priority'] = ' Priorité';
+$lang['task_add_success'] = ' Groupe ajouté avec succès!';
+$lang['task_update_success'] = ' Tâche mis à jour avec succès!';
+$lang['task_status'] = ' État de la tâche';
+$lang['task_name'] = ' Nom de la tâche';
+$lang['task_hours'] = ' Tâches heures';
+$lang['task_assigned'] = ' tâche assignée';
+$lang['task_assigned_subject'] = ' Nouvelle tâche assignée!';
+$lang['task_file_uploaded'] = ' Nouveau fichier téléchargé tâche!';
+$lang['view_task'] = ' Voir Task';
+$lang['task_updated'] = ' Tâche Mise à jour avec succès!';
+$lang['add_task'] = ' Nouvelles tâches';
+$lang['task'] = ' Tâche';
+$lang['assign_task'] = ' Nouvelle tâche';
+$lang['changes/view'] = ' Change de vue';
+$lang['assined_to'] = ' Assigné à  ';
+$lang['estimated_hour'] = ' Heure estimée';
+$lang['input_value'] = ' Entrée Valeur Whole';
+$lang['task_description'] = ' Description de la tâche';
+$lang['all_task'] = ' Toutes les tâches';
+$lang['save_task'] = ' Informations sur la tâche avec succès Ajouté!';
+$lang['activity_new_task'] = ' Tâche Information Ajouté!';
+$lang['activity_update_task'] = ' Tâche de mise à jour de l\'information!';
+$lang['activity_new_task_comment'] = ' Tâche Nouveau commentaire!';
+$lang['activity_new_leads_comment'] = ' Mène Nouveau commentaire!';
+$lang['activity_new_task_attachment'] = ' Tâche Nouvelle pièce jointe!';
+$lang['activity_new_leads_attachment'] = ' Mène Nouvelle pièce jointe!';
+$lang['update_task'] = ' Informations sur la tâche avec succès Mise à jour!';
+$lang['task_comment_save'] = ' Tâche Commentaire Mise à jour avec succès!';
+$lang['leads_comment_save'] = ' Mène Commentaire succès Mise à jour!';
+$lang['task_file_updated'] = ' Informations sur les fichiers de mise à jour des tâches avec succès';
+$lang['leads_file_updated'] = 'Mène des informations de fichier mis à jour avec succès';
+$lang['task_file_added'] = ' Informations sur les fichiers de la tâche avec succès Ajouté';
+$lang['leads_file_added'] = ' Mène des informations de fichier avec succès Ajouté';
+$lang['task_details'] = ' Détails de la tâche';
+$lang['operation_failed'] = ' L\'opération a échoué !';
+$lang['task_initials'] = ' Initiales tâche';
+$lang['add_more'] = ' Ajouter plus';
+$lang['attach_file_list'] = ' Liste des pièces jointes';
+$lang['task_attachfile_deleted'] = ' Pièce jointe fichier supprimé';
+$lang['leads_attachfile_deleted'] = ' Mène File Attachment supprimé';
+$lang['activity_task_attachfile_deleted'] = ' Pièce jointe fichier supprimé';
+$lang['activity_task_deleted'] = ' Tâche Informations Supprimé';
+$lang['tasks_email'] = ' Tâches Email';
+$lang['tasks_comments'] = ' Tâches Commentaires';
+$lang['tasks_attachment'] = ' Tâches Commentaires';
+$lang['tasks_updated'] = ' Tâches Mise à jour';
+$lang['not_started'] = ' Pas commencé';
+$lang['in_progress'] = ' En cours';
+$lang['completed'] = ' Terminé';
+$lang['deferred'] = ' différé';
+$lang['waiting_for_someone'] = ' Attendre quelqu\'un';
+$lang['participants'] = ' Les participants';
+$lang['select_users'] = ' Sélectionnez utilisateurs';
+$lang['related_to'] = ' Relatif à';
+$lang['to_do'] = ' Faire';
+
+
+/* End of file tasks_lang.php */
+/* Location: ./application/language/french/tasks_lang.php */

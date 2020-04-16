@@ -1,0 +1,65 @@
+<?php
+$lang['complete_tasks'] = 'Sarcini complete de';
+$lang['my_tasks'] = 'Sarcinile mele';
+$lang['save_tasks'] = 'Sarcini salva';
+$lang['tasks'] = 'Sarcini';
+$lang['priority'] = 'Prioritate';
+$lang['task_add_success'] = 'Sarcina a adăugat cu succes!';
+$lang['task_update_success'] = 'Sarcina actualizat cu succes!';
+$lang['task_status'] = 'sarcina Statutul';
+$lang['task_name'] = 'Nume sarcină';
+$lang['task_hours'] = 'sarcini ore';
+$lang['task_assigned'] = 'sarcina alocate';
+$lang['task_assigned_subject'] = 'Noua activitate atribuită!';
+$lang['task_file_uploaded'] = 'fișier sarcină nouă încărcat!';
+$lang['view_task'] = 'Vizualizare Sarcină';
+$lang['task_updated'] = 'Sarcina a fost actualizat!';
+$lang['add_task'] = 'Sarcini noi';
+$lang['task'] = 'Sarcină';
+$lang['assign_task'] = 'Sarcina noua';
+$lang['changes/view'] = 'Schimbă privirea';
+$lang['assined_to'] = 'Atribuit';
+$lang['estimated_hour'] = 'Ora estimată';
+$lang['input_value'] = 'Intrare Total Valoare';
+$lang['task_description'] = 'Descrierea sarcinii';
+$lang['all_task'] = 'toate task';
+$lang['save_task'] = 'Sarcina Informații a fost adăugat!';
+$lang['activity_new_task'] = 'Sarcina Informații a fost adăugat!';
+$lang['activity_update_task'] = 'Sarcina Informații Update!';
+$lang['activity_new_task_comment'] = 'Sarcina Comentariu nou!';
+$lang['activity_new_leads_comment'] = 'Oportunitati Comentariu nou!';
+$lang['activity_new_task_attachment'] = 'Sarcina Atasament nou!';
+$lang['activity_new_leads_attachment'] = 'Oportunitati Atasament nou!';
+$lang['update_task'] = 'Sarcina Informații actualizate cu succes!';
+$lang['task_comment_save'] = 'Sarcina Comentariu a fost actualizat!';
+$lang['leads_comment_save'] = 'Comentariu conduce cu succes Actualizat!';
+$lang['task_file_updated'] = 'Informații fișier task actualizat cu succes';
+$lang['leads_file_updated'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['task_file_added'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['leads_file_added'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['task_details'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['operation_failed'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['task_initials'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['add_more'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['attach_file_list'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['task_attachfile_deleted'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['leads_attachfile_deleted'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['activity_task_attachfile_deleted'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['activity_task_deleted'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['tasks_email'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['tasks_comments'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['tasks_attachment'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['tasks_updated'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['not_started'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['in_progress'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['completed'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['deferred'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['waiting_for_someone'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['participants'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['select_users'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['related_to'] = 'Oportunitati de File Attachment șters cu succes';
+$lang['to_do'] = 'Oportunitati de File Attachment șters cu succes';
+
+
+/* End of file tasks_lang.php */
+/* Location: ./application/language/romanian/tasks_lang.php */

@@ -1,0 +1,59 @@
+<?php
+$lang['date_year'] = 'Ano';
+$lang['date_years'] = 'Anos';
+$lang['date_month'] = 'Mês';
+$lang['date_months'] = 'Meses';
+$lang['date_week'] = 'Semana';
+$lang['date_weeks'] = 'Semanas';
+$lang['date_day'] = 'Dia';
+$lang['date_days'] = 'Dias';
+$lang['date_hour'] = 'Hora';
+$lang['date_hours'] = 'Horas';
+$lang['date_minute'] = 'Minuto';
+$lang['date_minutes'] = 'Minutos';
+$lang['date_second'] = 'Segundo';
+$lang['date_seconds'] = 'Segundos';
+$lang['UM12'] = '(UTC -12:00) Baker/Howland Island hora padrão';
+$lang['UM11'] = '(UTC -11:00) Niue hora padrão';
+$lang['UM10'] = '(UTC -10:00) Hawaii-Aleutian hora padrão, Cook Islands, Tahiti';
+$lang['UM95'] = '(UTC -9:30) Marquesas Islands hora padrão';
+$lang['UM9'] = '(UTC -9:00) Alaska Standard Time, Gambier Islands hora padrão';
+$lang['UM8'] = '(UTC -8:00) Pacific Standard Time, Clipperton Island hora padrão';
+$lang['UM7'] = '(UTC -7:00) Mountain hora padrão';
+$lang['UM6'] = '(UTC -7:00) Mountain hora padrão';
+$lang['UM5'] = '(UTC -5:00) Eastern hora padrão, Western Caribbean hora padrão';
+$lang['UM45'] = '(UTC -4:30) Venezuelan hora padrão';
+$lang['UM4'] = '(UTC -4:00) Atlantic hora padrão, Eastern Caribbean Standard Time';
+$lang['UM35'] = '(UTC -3:30) Newfoundland hora padrão';
+$lang['UM3'] = '(UTC -3:00) Argentina, Brazil, French Guiana, Uruguay hora padrão';
+$lang['UM2'] = '(UTC -2:00) South Georgia/South Sandwich Islands hora padrão';
+$lang['UM1'] = '(UTC -1:00) Azores, Cape Verde Islands hora padrão';
+$lang['UTC'] = '(UTC) Greenwich Mean Time, Western European Time hora padrão';
+$lang['UP1'] = '(UTC +1:00) Central European Time, West Africa Time hora padrão';
+$lang['UP2'] = '(UTC +2:00) Central Africa Time, Eastern European Time, Kaliningrad Time hora padrão';
+$lang['UP3'] = '(UTC +3:00) Moscow Time, East Africa Time, Arabia hora padrão';
+$lang['UP35'] = '(UTC +3:30) Iran hora padrão';
+$lang['UP4'] = '(UTC +4:00) Azerbaijan hora padrão, Samara Time';
+$lang['UP45'] = '(UTC +4:30) Afghanistan ';
+$lang['UP5'] = '(UTC +5:00) Pakistan hora padrão, Yekaterinburg Time';
+$lang['UP55'] = '(UTC +5:30) Indian hora padrão, Sri Lanka Time';
+$lang['UP575'] = '(UTC +5:45) Nepal Time hora padrão';
+$lang['UP6'] = '(UTC +6:00) Bangladesh hora padrão, Bhutan Time, Omsk Time';
+$lang['UP65'] = '(UTC +6:30) Cocos Islands, Myanmar hora padrão';
+$lang['UP7'] = '(UTC +7:00) Krasnoyarsk Time, Cambodia, Laos, Thailand, Vietnam hora padrão';
+$lang['UP8'] = '(UTC +8:00) Australian Western hora padrão Beijing Time, Irkutsk Time';
+$lang['UP875'] = '(UTC +8:45) Australian Central Western hora padrão';
+$lang['UP9'] = '(UTC +9:00) Japan hora padrão, Korea Standard Time, Yakutsk Time';
+$lang['UP95'] = '(UTC +9:30) Australian Central hora padrão';
+$lang['UP10'] = '(UTC +10:00) Australian Eastern hora padrão, Vladivostok Time';
+$lang['UP105'] = '(UTC +10:30) Lord Howe Island hora padrão';
+$lang['UP11'] = '(UTC +11:00) Srednekolymsk Time, Solomon Islands, Vanuatu hora padrão';
+$lang['UP115'] = '(UTC +11:30) Norfolk Island hora padrão';
+$lang['UP12'] = '(UTC +12:00) Fiji, Gilbert Islands, Kamchatka Time, New Zealand hora padrão';
+$lang['UP1275'] = '(UTC +12:45) Chatham Islands hora padrão';
+$lang['UP13'] = '(UTC +13:00) Samoa Time Zone, Phoenix Islands Time, Tonga hora padrão';
+$lang['UP14'] = '(UTC +14:00) Line Islands hora padrão';
+
+
+/* End of file date_lang.php */
+/* Location: ./application/language/portuguese/date_lang.php */

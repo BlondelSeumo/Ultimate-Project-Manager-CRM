@@ -1,0 +1,53 @@
+<?php
+$lang['performance'] = 'Desempenho cargo';
+$lang['performance_indicator'] = 'Cargo Função';
+$lang['give_appraisal'] = 'Fazer avaliação';
+$lang['performance_report'] = 'Relatório de desempenho';
+$lang['indicator_list'] = 'Lista de cargos';
+$lang['set_indicator'] = 'Definir cargo';
+$lang['technical_competency'] = 'Competências técnicas';
+$lang['customer_experience_management'] = 'Gerenciamento de experiência do cliente';
+$lang['beginner'] = 'Iniciante';
+$lang['intermediate'] = 'Intermediário';
+$lang['advanced'] = 'Avançado';
+$lang['expert_leader'] = 'Especialista / Líder';
+$lang['marketing'] = 'Marketing';
+$lang['management'] = 'Gerenciamento';
+$lang['administration'] = 'Administração';
+$lang['presentation_skill'] = 'Habilidade da apresentação';
+$lang['quality_of_work'] = 'Qualidade do trabalho';
+$lang['efficiency'] = 'Eficiência';
+$lang['behavioural_competency'] = 'Competências comportamentais / organizacionais';
+$lang['integrity'] = 'Integridade';
+$lang['professionalism'] = 'Profissionalismo';
+$lang['team_work'] = 'Trabalho em equipe';
+$lang['critical_thinking'] = 'Pensamento crítico';
+$lang['conflict_management'] = 'Gerenciamento de conflitos';
+$lang['attendance'] = 'Atendimento';
+$lang['ability_to_meet_deadline'] = 'Capacidade de cumprir o prazo';
+$lang['activity_performance_indicator_saved'] = 'Indicador de desempenho salvo';
+$lang['activity_performance_indicator_updated'] = 'Indicador de desempenho atualizado';
+$lang['indicator_update'] = 'Informações do indicador atualizadas com sucesso';
+$lang['indicator_saved'] = 'Informações do indicador salvas com sucesso';
+$lang['performance_indicator_details'] = 'Detalhes do indicador de desempenho';
+$lang['indicator_value_not_set'] = 'Valores do indicador ainda não definidos!';
+$lang['give_performance_appraisal'] = 'Enviar avaliação de desempenho';
+$lang['remarks'] = 'Comentários';
+$lang['pected_value '] =' Valor esperado ';
+$lang['set_value'] = 'Definir valor';
+$lang['not_set'] = 'Não definido';
+$lang['appraisal_already_provided'] = 'Informações da avaliação Já foram fornecidas a este usuário uma vez para:';
+$lang['activity_appraisal_update'] = 'Avaliação de desempenho atualizada';
+$lang['activity_appraisal_saved'] = 'Avaliação de desempenho salva';
+$lang['appraisal_update'] = 'Informações da avaliação atualizadas com sucesso';
+$lang['appraisal_saved'] = 'Informações da avaliação salvas com sucesso';
+$lang['emp_id'] = 'ID EMP';
+$lang['appraisal_month'] = 'Mês da avaliação';
+$lang['performance_appraisal_details'] = 'Detalhes da avaliação de desempenho';
+$lang['performance_appraisal_of'] = 'Avaliação de desempenho de';
+$lang['assigned'] = 'Atribuído';
+$lang['expected'] = 'Esperado';
+$lang['atleast_one_appraisal'] = 'Por favor, defina o valor esperado em pelo menos um';
+
+/* End of file performance_lang.php */
+/* Location: ./application/language/portuguese/performance_lang.php */

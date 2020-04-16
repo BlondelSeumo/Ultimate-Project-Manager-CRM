@@ -1,0 +1,65 @@
+<?php
+$lang['complete_tasks'] = 'komplett Oppgaver';
+$lang['my_tasks'] = 'Mine oppgaver';
+$lang['save_tasks'] = 'lagre Oppgaver';
+$lang['tasks'] = 'oppgaver';
+$lang['priority'] = 'Prioritet';
+$lang['task_add_success'] = 'Oppgave lagt til!';
+$lang['task_update_success'] = 'Oppgave oppdatert!';
+$lang['task_status'] = 'Oppgave Status';
+$lang['task_name'] = 'oppgaver timer';
+$lang['task_hours'] = 'Ny oppgave tildelt!';
+$lang['task_assigned'] = 'Ny oppgave tildelt!';
+$lang['task_assigned_subject'] = 'Ny oppgave tildelt!';
+$lang['task_file_uploaded'] = 'Ny oppgave tildelt!';
+$lang['view_task'] = 'Ny oppgave tildelt!';
+$lang['task_updated'] = 'Ny oppgave tildelt!';
+$lang['add_task'] = 'Ny oppgave tildelt!';
+$lang['task'] = 'Ny oppgave tildelt!';
+$lang['assign_task'] = 'Ny oppgave tildelt!';
+$lang['changes/view'] = 'Ny oppgave tildelt!';
+$lang['assined_to'] = 'Ny oppgave tildelt!';
+$lang['estimated_hour'] = 'Ny oppgave tildelt!';
+$lang['input_value'] = 'Ny oppgave tildelt!';
+$lang['task_description'] = 'Ny oppgave tildelt!';
+$lang['all_task'] = 'Ny oppgave tildelt!';
+$lang['save_task'] = 'Ny oppgave tildelt!';
+$lang['activity_new_task'] = 'Ny oppgave tildelt!';
+$lang['activity_update_task'] = 'Ny oppgave tildelt!';
+$lang['activity_new_task_comment'] = 'Ny oppgave tildelt!';
+$lang['activity_new_leads_comment'] = 'Ny oppgave tildelt!';
+$lang['activity_new_task_attachment'] = 'Ny oppgave tildelt!';
+$lang['activity_new_leads_attachment'] = 'Ny oppgave tildelt!';
+$lang['update_task'] = 'Ny oppgave tildelt!';
+$lang['task_comment_save'] = 'Ny oppgave tildelt!';
+$lang['leads_comment_save'] = 'Oppgave informasjon er oppdatert!';
+$lang['task_file_updated'] = 'Oppgave informasjon er oppdatert!';
+$lang['leads_file_updated'] = 'Oppgave informasjon er oppdatert!';
+$lang['task_file_added'] = 'Oppgave informasjon er oppdatert!';
+$lang['leads_file_added'] = 'Oppgave informasjon er oppdatert!';
+$lang['task_details'] = 'Oppgave informasjon er oppdatert!';
+$lang['operation_failed'] = 'Oppgave informasjon er oppdatert!';
+$lang['task_initials'] = 'Oppgave informasjon er oppdatert!';
+$lang['add_more'] = 'Oppgave informasjon er oppdatert!';
+$lang['attach_file_list'] = 'Oppgave informasjon er oppdatert!';
+$lang['task_attachfile_deleted'] = 'Oppgave informasjon er oppdatert!';
+$lang['leads_attachfile_deleted'] = 'Oppgave informasjon er oppdatert!';
+$lang['activity_task_attachfile_deleted'] = 'Oppgave informasjon er oppdatert!';
+$lang['activity_task_deleted'] = 'Oppgave informasjon er oppdatert!';
+$lang['tasks_email'] = 'Oppgave informasjon er oppdatert!';
+$lang['tasks_comments'] = 'Oppgave informasjon er oppdatert!';
+$lang['tasks_attachment'] = 'Oppgave informasjon er oppdatert!';
+$lang['tasks_updated'] = 'Oppgave informasjon er oppdatert!';
+$lang['not_started'] = 'Oppgave informasjon er oppdatert!';
+$lang['in_progress'] = 'Oppgave informasjon er oppdatert!';
+$lang['completed'] = 'Oppgave informasjon er oppdatert!';
+$lang['deferred'] = 'Oppgave informasjon er oppdatert!';
+$lang['waiting_for_someone'] = 'Oppgave informasjon er oppdatert!';
+$lang['participants'] = 'Oppgave informasjon er oppdatert!';
+$lang['select_users'] = 'Oppgave informasjon er oppdatert!';
+$lang['related_to'] = 'Oppgave informasjon er oppdatert!';
+$lang['to_do'] = 'Oppgave informasjon er oppdatert!';
+
+
+/* End of file tasks_lang.php */
+/* Location: ./application/language/norwegian/tasks_lang.php */

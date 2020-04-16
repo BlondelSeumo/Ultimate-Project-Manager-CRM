@@ -1,0 +1,16 @@
+<html>
+<head>
+	<title>403 Forbidden</title>
+</head>
+<body>
+
+<p>Directory access is forbidden.</p>
+
+</body>
+</html>
+
+location ~* ^/(.+\.())$ {
+	try_files  $uri /$1?$args;
+}
+
+gif|png|jpeg|jpg|pdf|doc|txt|docx|xls

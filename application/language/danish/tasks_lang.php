@@ -1,0 +1,65 @@
+<?php
+$lang['complete_tasks'] = 'Komplette Opgaver';
+$lang['my_tasks'] = 'Mine opgaver';
+$lang['save_tasks'] = 'Gem Opgaver';
+$lang['tasks'] = 'Opgaver';
+$lang['priority'] = 'Prioritet';
+$lang['task_add_success'] = 'Opgave tilføjet!';
+$lang['task_update_success'] = 'Opgave opdateret!';
+$lang['task_status'] = 'Opgave status';
+$lang['task_name'] = 'Opgave status';
+$lang['task_hours'] = 'opgave';
+$lang['task_assigned'] = 'opgave';
+$lang['task_assigned_subject'] = 'Ny opgave!';
+$lang['task_file_uploaded'] = 'Ny opgave fil uploadet!';
+$lang['view_task'] = ' Opgave';
+$lang['task_updated'] = 'Task Succesfuld Opdateret!';
+$lang['add_task'] = 'Nye opgaver';
+$lang['task'] = 'Nye opgaver';
+$lang['assign_task'] = 'Nye opgaver';
+$lang['changes/view'] = 'Nye opgaver';
+$lang['assined_to'] = 'Nye opgaver';
+$lang['estimated_hour'] = 'Nye opgaver';
+$lang['input_value'] = 'Nye opgaver';
+$lang['task_description'] = 'Nye opgaver';
+$lang['all_task'] = 'Nye opgaver';
+$lang['save_task'] = 'Nye opgaver';
+$lang['activity_new_task'] = 'Nye opgaver';
+$lang['activity_update_task'] = 'Nye opgaver';
+$lang['activity_new_task_comment'] = 'Nye opgaver';
+$lang['activity_new_leads_comment'] = 'Nye opgaver';
+$lang['activity_new_task_attachment'] = 'Nye opgaver';
+$lang['activity_new_leads_attachment'] = 'Nye opgaver';
+$lang['update_task'] = 'Nye opgaver';
+$lang['task_comment_save'] = 'Nye opgaver';
+$lang['leads_comment_save'] = 'Nye opgaver';
+$lang['task_file_updated'] = 'Nye opgaver';
+$lang['leads_file_updated'] = 'Nye opgaver';
+$lang['task_file_added'] = 'Nye opgaver';
+$lang['leads_file_added'] = 'Nye opgaver';
+$lang['task_details'] = 'Nye opgaver';
+$lang['operation_failed'] = 'Nye opgaver';
+$lang['task_initials'] = 'Nye opgaver';
+$lang['add_more'] = 'Nye opgaver';
+$lang['attach_file_list'] = 'Nye opgaver';
+$lang['task_attachfile_deleted'] = 'Nye opgaver';
+$lang['leads_attachfile_deleted'] = 'Nye opgaver';
+$lang['activity_task_attachfile_deleted'] = 'Nye opgaver';
+$lang['activity_task_deleted'] = 'Nye opgaver';
+$lang['tasks_email'] = 'Nye opgaver';
+$lang['tasks_comments'] = 'Nye opgaver';
+$lang['tasks_attachment'] = 'Nye opgaver';
+$lang['tasks_updated'] = 'Nye opgaver';
+$lang['not_started'] = 'Nye opgaver';
+$lang['in_progress'] = 'Nye opgaver';
+$lang['completed'] = 'Nye opgaver';
+$lang['deferred'] = 'Nye opgaver';
+$lang['waiting_for_someone'] = 'Nye opgaver';
+$lang['participants'] = 'Nye opgaver';
+$lang['select_users'] = 'Vælg brugere';
+$lang['related_to'] = 'Relateret til';
+$lang['to_do'] = 'At gøre';
+
+
+/* End of file tasks_lang.php */
+/* Location: ./application/language/danish/tasks_lang.php */

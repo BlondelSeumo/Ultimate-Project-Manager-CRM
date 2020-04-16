@@ -1,0 +1,12 @@
+1. Upload folder 'Ultimate_FRESH'
+2. Create and import database - db_crm.sql
+3. Edit \application\config\database.php
+    'hostname' => 'localhost',
+    'username' => 'root',
+    'password' => '',
+    'database' => 'db_crm',
+    'dbdriver' => 'mysqli',
+    'dbprefix' => 'tbl_',
+4. Login details:
+login: admin
+pass: ganjaparker

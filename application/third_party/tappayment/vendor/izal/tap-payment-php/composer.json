@@ -1,0 +1,24 @@
+{
+  "name": "izal/tap-payment-php",
+  "description": "Php SDK for Tap Payment Gateway",
+  "license": "MIT",
+  "keywords": ["tap","tap payment"],
+  "authors": [
+    {
+      "name": "Afzal Abbas",
+      "email": "z4ls@live.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "6.*",
+    "php": ">=5.5.9"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "IZaL\\Tap\\": "src"
+    }
+  }
+}

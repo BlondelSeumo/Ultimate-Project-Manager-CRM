@@ -1,0 +1,59 @@
+<?php
+$lang['client_list'] = 'Lista de clientes';
+$lang['all_client'] = 'Todos os Clientes';
+$lang['name'] = 'Nome';
+$lang['client'] = 'Cliente';
+$lang['clients'] = 'Clientes';
+$lang['client_status'] = 'Selecionar tipo';
+$lang['select'] = 'Selecionar';
+$lang['manage_client'] = 'Gerenciar cliente';
+$lang['clients_registration'] = 'Registros de Clientes';
+$lang['clients_registered'] = 'Clientes Registrados';
+$lang['client_registered_successfully'] = 'Registro do cliente bem-sucedido!';
+$lang['activity_added_new_company'] = 'Adicionar novo cliente';
+$lang['activity_update_company'] = 'Atualizar novo cliente';
+$lang['activity_update_contact'] = 'Atualizar novo contato';
+$lang['activity_added_new_contact'] = 'Adicionar novo contato';
+$lang['activity_deleted_contact'] = 'Eliminar contacto';
+$lang['delete_contact'] = 'Informações de contato do cliente excluídas com sucesso!';
+$lang['activity_deleted_client'] = 'Cliente excluído';
+$lang['delete_client'] = 'Informações do cliente eliminadas com êxito!';
+$lang['select_type'] = 'Selecionar tipo';
+$lang['client_contact'] = 'Contato';
+$lang['hosting'] = 'Hospedagem';
+$lang['converted_from'] = 'Formulário convertido';
+$lang['without_converted'] = 'Sem conversão';
+$lang['converted_client'] = 'Cliente convertido';
+$lang['business'] = 'Empresa';
+$lang['state'] = 'Província/Estado';
+$lang['first_name'] = 'Primeiro nome';
+$lang['last_name'] = 'Último nome';
+$lang['toll_free'] = 'Ligue grátis';
+$lang['postal'] = 'Código postal';
+$lang['latitude'] = 'Latitude';
+$lang['longitude'] = 'Longitude';
+$lang['google_map'] = 'Google Map';
+$lang['fetch_from_google'] = 'Buscar no Google';
+$lang['customer_fetch_lat_lng_usage'] = 'Preencha o endereço, a cidade e o país antes de buscar para obter o melhor resultado.';
+$lang['g_search_address_not_found'] = 'Não foi possível encontrar o endereço, tente novamente';
+$lang['group'] = 'Grupo';
+$lang['filter_by'] = 'Filtrar por';
+$lang['update_client_status'] = 'Atualização do status do cliente';
+$lang['save_and_create_contact'] = 'Salvar e criar contato';
+$lang['map'] = 'Map';
+$lang['map_notice'] = 'Adicione longitude e latitude no perfil do cliente para mostrar o mapa aqui';
+$lang['setup_google_api_key_map'] = 'Configure a chave da API do Google para visualizar o mapa do cliente';
+$lang['google_api_key'] = 'Google API KEY';
+$lang['added_by'] = 'Adicionado por';
+$lang['activity_deleted_notes'] = 'Excluir anotações';
+$lang['zip_invoice'] = 'Fatura zip';
+$lang['zip_proposal'] = 'Proposta zip';
+$lang['zip_estimate'] = 'Estimativa zip';
+$lang['zip_payment'] = 'Pagamento zip';
+$lang['from_date'] = 'Da data';
+$lang['to_date'] = 'Até a data';
+$lang['undefined_client'] = 'Cliente Indefinido';
+
+
+/* End of file client_lang.php */
+/* Location: ./application/language/portuguese/client_lang.php */

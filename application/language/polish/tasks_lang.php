@@ -1,0 +1,65 @@
+<?php
+$lang['complete_tasks'] = 'wykonywania zadań';
+$lang['my_tasks'] = 'Moje zadania';
+$lang['save_tasks'] = 'Zapisz Zadania';
+$lang['tasks'] = 'Zapisz Zadania';
+$lang['priority'] = 'zadania';
+$lang['task_add_success'] = 'Priorytet';
+$lang['task_update_success'] = 'Zadanie dodany pomyślnie!';
+$lang['task_status'] = 'Zadanie zostało zaktualizowane!';
+$lang['task_name'] = 'status zadania';
+$lang['task_hours'] = 'Nazwa zadania';
+$lang['task_assigned'] = 'zadania godzin';
+$lang['task_assigned_subject'] = 'zadanie przydzielone';
+$lang['task_file_uploaded'] = 'Nowe zadanie przypisane!';
+$lang['view_task'] = 'Nowy plik zadaniem dodany!';
+$lang['task_updated'] = 'Zobacz Task';
+$lang['add_task'] = 'Zadanie pomyślnie zaktualizowane!';
+$lang['task'] = 'Nowe zadania';
+$lang['assign_task'] = 'Zadanie';
+$lang['changes/view'] = 'Nowe zadanie';
+$lang['assined_to'] = 'Zmień widok';
+$lang['estimated_hour'] = 'Przypisane do';
+$lang['input_value'] = 'Planowana godzina';
+$lang['task_description'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['all_task'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['save_task'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['activity_new_task'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['activity_update_task'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['activity_new_task_comment'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['activity_new_leads_comment'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['activity_new_task_attachment'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['activity_new_leads_attachment'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['update_task'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['task_comment_save'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['leads_comment_save'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['task_file_updated'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['leads_file_updated'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['task_file_added'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['leads_file_added'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['task_details'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['operation_failed'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['task_initials'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['add_more'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['attach_file_list'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['task_attachfile_deleted'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['leads_attachfile_deleted'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['activity_task_attachfile_deleted'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['activity_task_deleted'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['tasks_email'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['tasks_comments'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['tasks_attachment'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['tasks_updated'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['not_started'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['in_progress'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['completed'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['deferred'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['waiting_for_someone'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['participants'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['select_users'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['related_to'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+$lang['to_do'] = 'Informacje Zadanie pomyślnie zaktualizowane!';
+
+
+/* End of file tasks_lang.php */
+/* Location: ./application/language/polish/tasks_lang.php */
